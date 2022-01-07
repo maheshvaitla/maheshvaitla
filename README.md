@@ -27,7 +27,7 @@
 
 
 
-### Connect with me : ⬇️
+### **Connect with me** : ⬇️
  
 <a href="https://www.linkedin.com/in/vaitla-mahesh-kumar-81a096125/"/> <img align="left" alt="mahesh" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png"/>
 
@@ -36,7 +36,7 @@
 <br/>
 
 
-### GitHub Stats :
+### **GitHub Stats** :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshvaitla&theme=radical)
 
 
